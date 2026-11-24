@@ -6,7 +6,7 @@
 
 *Modeling the Staged Drying of Medicinal Materials via Coupled Heat and Moisture Transfer*
 
-**竞赛成绩 / Award：** 省级一等奖（待官方正式公布确认）
+**竞赛成绩 / Award：** 省级一等奖
 
 **Tech Stack：** Python · MWORKS.Syslab / Julia · FVM · BDF · PCHIP · Moving Boundary
 
